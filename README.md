@@ -1,7 +1,7 @@
 # Stock Portfolio Monitoring and Management System
 
 A fast, free, in-browser stock portfolio manager that you can deploy anywhere. You can use the version
-deployed at https://alakwa.github.io/fisal/ or [deploy your own](#deploy-your-own).
+deployed at https://github.com/alakwa/fisal/ or [deploy your own](#deploy-your-own).
 
 ## Importing Your Portfolio
 
