@@ -2,7 +2,7 @@
   "name": "finance",
   "version": "1.0.0",
   "private": true,
-  "author": "Ross Allen (https://github.com/ssorallen)",
+  "author": "Ross Allen (https://github.com/alakwa/fisal)",
   "homepage": "https://alakwa.github.io/fisal/",
   "dependencies": {
     "@vx/axis": "^0.0.162",
